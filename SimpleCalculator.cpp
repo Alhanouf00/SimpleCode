@@ -1,3 +1,9 @@
+/*
+Author:Alhanouf
+
+This project is simple calculator wrote in C++ language 
+
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
